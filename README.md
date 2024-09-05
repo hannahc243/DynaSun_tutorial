@@ -9,6 +9,8 @@ It includes:
 * Quicklook imaging
 * An example time series analysis of thermal X-ray QPPs
 
+[Open in colab](https://colab.research.google.com/github/hannahc243/DynaSun_tutorial/blob/main/intro_to_stix_analysis.ipynb)
+
 ---
 
 In general, there are various software packages for analysing STIX data written in python and IDL, as follows: 
