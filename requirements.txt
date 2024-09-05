@@ -1,4 +1,2 @@
 sunpy[all]
 stixpy
-ipympl
-ipywidgets
